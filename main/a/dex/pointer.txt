@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/srs66/Fluxion/main/src/test/Threads/bootstrap.json
+https://raw.githubusercontent.com/srs66/Fluxion/main/src/test/Threads/bootstraps.json
